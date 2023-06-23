@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #F5F5F5;
+}
+
+label {
+  display: block;
+}
+
+input {
+  display: block;
+  background-color: #F5F5F5;
+  outline: none;
+}
